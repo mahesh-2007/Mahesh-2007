@@ -25,13 +25,9 @@
 <br />
 
 ---
-:zap: GitHub Stats
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Mahesh-2007&theme=github-dark" alt="Mahesh-2007" /></p>
-<!-- <details>
-   <summary>:zap: GitHub Stats</summary>
-  <img align="left" alt="sathishsk25's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=sathishsk25&show_icons=true&hide_border=false&title_color=ff652f&icon_color=69d0ae&bg_color=09131B&text_color=69d0ae&border_color=69d0ae" />
-</details> -->
+![mahesh's GitHub stats](https://github-readme-stats.vercel.app/api?username=Mahesh-2007&theme=dark&show_icons=true&&hide=issues,contribs)
+[![mahesh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Mahesh-2007&bg_color=000000&color=ffffff&line=51f565&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 [website]: https://mahesh-2007.github.io/Portfolio-MAHESH/
 [twitter]:(https://mobile.x.com/Mahesh15747922)
