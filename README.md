@@ -33,7 +33,7 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Mahesh-2007&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 [![mahesh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Mahesh-2007&bg_color=000000&color=ffffff&line=51f565&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 ---
-[![](https://visitcount.itsvg.in/api?id=Mahesh-2007&icon=0&color=0)](https://visitcount.itsvg.in)
+
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 [website]: https://mahesh-2007.github.io/Portfolio-MAHESH/
