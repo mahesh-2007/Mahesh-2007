@@ -4,7 +4,7 @@
 
 
 ### Connect with me:
-[<img align="left" alt="Website" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firefox/firefox-plain.svg" style="padding-right:10px;" />](https://mahesh-2007.github.io/Portfolio-MAHESH/)
+[<img align="left" alt="Website" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firefox/firefox-plain.svg" style="padding-right:10px;" />](https://mahesh-2007.github.io/portfolio)
 
 
 [<img align="left" alt="Twitter" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg" style="padding-right:10px;" />](https://mobile.x.com/Mahesh15747922)
