@@ -3,7 +3,7 @@
 ## I’m a self-taught Developer. I used to spend my day, practically every day, learning and experimenting with technologies.
 
 
-### Connect with me:
+### Connect with me:https://github.com/mahesh-2007/Mahesh-2007/edit/main/README.md
 [<img align="left" alt="Website" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firefox/firefox-plain.svg" style="padding-right:10px;" />](https://mahesh-2007.github.io/portfolio)
 
 
@@ -22,6 +22,8 @@
 <img align="left" alt="GitHub" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg"
            style="padding-right:10px;" />
 <img align="left" alt="java" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg"   style="padding-right:10px;" /> 
+ <img align="left" alt="py" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" style="padding-right:10px;" />
+          
 <br />
 
 ---
